@@ -18,6 +18,9 @@ li {
 #help {
   background-color: red;
 }
+#pozi {
+  position: absolute;
+}
 .profilkartya {
   width: 18.75rem;
   height: 31.25rem;
@@ -38,7 +41,7 @@ li {
 .nev {
   position: absolute;
   font-family: 'Dancing Script', Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 1.1rem;
   color: rgb(255, 255, 255);
   width: 50%;
   top: 5%;
@@ -130,7 +133,7 @@ img {
     height: 15.625rem;
   }
   .nev {
-    top: 8rem;
+    top: 8.5rem;
     right: 5rem;
   }
   .nevalatt {
